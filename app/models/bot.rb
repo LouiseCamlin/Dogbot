@@ -7,7 +7,7 @@ class Bot < ApplicationRecord
   def self.tweet
     dog = Bot.new_dog
     status = dog.breed + dog.fact
-    CLIENT.update(status)
+    CLIENT.update_with_media(status, File.new("./app/assets/images/" + dog.breed + "jpg"))
   end
 
 
