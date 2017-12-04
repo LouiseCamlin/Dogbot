@@ -1,7 +1,7 @@
 class Bot < ApplicationRecord
 
   def self.new_dog
-    Dog.order_by_rand.first 
+    Dog.order_by_rand.first
   end
 
   def self.tweet
