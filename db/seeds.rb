@@ -28,9 +28,11 @@ Dog.create({breed: "Anatolian Shepherd Dog.", fact: "Originated in the Anatolia 
 
 Dog.create({breed: "Appenzeller Sennenhunde.", fact: "One of 4 regional breeds of Sennenhund type dogs from the Swiss Alps"})
 
-Dog.create({breed: "Austrailian Cattle Dog.", fact: "A breed of herding dog originally developed in Australia for droving cattle over long distances across rough terrain."})
+Dog.create({breed: "Australian Cattle Dog.", fact: "A breed of herding dog originally developed in Australia for droving cattle over long distances across rough terrain."})
 
-Dog.create({breed: "Austrailian Shepherd.", fact: "Despite its name it was developed on ranches in the Western United States during the 19th century."})
+Dog.create({breed: "Australian Shepherd.", fact: "Despite its name it was developed on ranches in the Western United States during the 19th century."})
+
+Dog.create({breed: "Australian Silky Terrier.", fact: "Also known as the Silky Terrier in North America. Developed in Austrailia to be a companion dog but has been known to kill snakes."})
 
 Dog.create({breed: "Azawakh.", fact: "A sighthound and cattle guardian breed from West Africa. They can hunt gazelle and hare at speeds up to 40 miles per hour."})
 
@@ -292,6 +294,91 @@ Dog.create({breed: "Norwich Terrier.", fact: "Relatively rare due to the fat tha
 
 Dog.create({breed: "Nova Scotia Duck Tolling Retriever.", fact: "Also known simply as Toller. Originating in Little River Harbour, Yarmouth County, Nova Scotia, it was once known as Little River Duck Dog. The name Toller comes from their abilty to lure waterfowl within gunshot range (tolling)."})
 
+## O ##
+
+Dog.create({breed: "Old English Sheepdog.", fact: "A shaggy coated sheep dog breed. Known coloquially in Austrailia, South Africa and the UK as the Dulux Dog due to its use in the Dulux paint advertising campaigns since the 1960s."})
+
+Dog.create({breed: "Otterhound.", fact: "Descended from Bloodhounds these dogs were bred to hunt and kill otters. They have been known to be able to track their prey throug mud and water for over 72 hours."})
+
+## P ##
+
+Dog.create({breed: "Papillon.", fact: "Translated from French their name means butterfly, which refers to their distinctive butterfly wing shaped ears. (Papillon with dropped ears is called a Phalène which is French for moth.)"})
+
+Dog.create({breed: "Pekingese.", fact: "Ancient toy breed originating from Beijing, Western China, where they are known as Lion Dogs due to their resemblance to Chinese guardian lions. Used by the Chinese Imperial court, Buddist monks and princes as lap and companion dogs."})
+
+Dog.create({breed: "Pembroke Welsh Corgi.", fact: "One of two types of Welsh Corgi. They are famous for being the favoured dog breed of Queen Elizabeth II who is said to have owned more than 30, though not all at once."})
+
+Dog.create({breed: "Pharaoh Hound.", fact: "The national dog of Malta. Originated in Malta where it is known as Kelb tal-Fenek (rabbit dog) as it was used to hunt rabbits. Despite the name of the breed and the similarity it bears to Anubis there is no link to Ancient Egypt."})
+
+Dog.create({breed: "Plott Hound.", fact: "Although it is the state dog of North Carolina, it is fairly rare to see them and they are not widely known about in the United States."})
+
+Dog.create({breed: "Pointer.", fact: "Also known as the English Pointer. Large gun dog breed developed in England. Pointing where the breed name comes from, is where the dog finds and points out the location of birds that have been shot by the hunter."})
+
+Dog.create({breed: "Polish Lowland Sheepdog.", fact: "Polish sheep dog breed with a shaggy coat. Also referred to as PONs. Although rare to see in the US it is considered the unofficial dog of Poland. Not to be confused with the Old English Sheepdog."})
+
+Dog.create({breed: "Pomeranian.", fact: "Determined by the Fédération Cynologique Internationale (World Canine Organization) to be part of the German Spitz breed; and in many countries, they are known as the Zwergspitz (Dwarf-Spitz)."})
+
+Dog.create({breed: "Poodle.", fact: "Three size variants of this breed exist; the Standard Poodle, the Miniature Poodle and the Toy Poodle. The Standard was the original of the three and was later bred down to Miniature and Toy."})
+
+Dog.create({breed: "Portuguese Water Dog.", fact: "Known in Portugal, their country of origin, as Cão de Água which translated means dog of water. They were used by fishermen to herd fish into their nets and to act as couriers between different ships and even between ships and shore."})
+
+Dog.create({breed: "Pug.", fact: "Distinctive features consisting of a wrinkly short muzzled face and curly tail. Are susceptible to a host of medical conditions; scratched corneas and proptosis, breathing difficulties and reverse sneezing, skin fold dermatitis and Pug dog encephalitis."})
+
+Dog.create({breed: "Puli.", fact: "A Hungarian herding and guarding dog with a long corded coat which looks similar to dreadlocks. It is believed that Puli is a natural shepherd, and will instinctively know how to herd sheep or livestock regardless of never being trained to do so."})
+
+Dog.create({breed: "Pyrenean Shepherd.", fact: "Also known as Berger des Pyrénées. A mountain dog from the Great Pyrenees which worked as a herder and guardian."})
+
+## Q ##
+
+## R ##
+
+Dog.create({breed: "Rat Terrier.", fact: "An American breed that is a mixture of several terrier breeds. Due to their speed they were used for controlling vermin and hunting small game such as squirrels and hares."})
+
+Dog.create({breed: "Redbone Coonhound.", fact: "Bred was originally bred to hunt prey that can climb trees like racoons. They have a specific bay when it has an animal either cornered or treed (where dogs are used to force animals that naturally climb up into trees)."})
+
+Dog.create({breed: "Rhodesian Ridgeback.", fact: "Developed in South Africa. Also known as Van Rooyen's lion dog due to its ability to keep a lion at bay until the hunter could come along and kill it."})
+
+Dog.create({breed: "Rottweiler.", fact: "Once known in Germany as Rottweiler Metzgerhund (Rottweil butchers' dogs) as they were once used to pull carts full of meat to market for butchers."})
+
+## S ##
+
+Dog.create({breed: "Saint Bernard.", fact: "Originates from the Great St Bernard Pass in the Western Alps between Switzerland and Italy. These dogs were originally bred as alpine rescue dogs. Has been the Swiss national dog since 1888."})
+
+Dog.create({breed: "Saluki.", fact: "Also known as the Persian Greyhound or Tazi, they come from the Fertile Crescent in Western Asia. The breed are sighthounds and were used for hunting by nomadic tribes of Persia to catch gazelle, hare, fox and jackal."})
+
+Dog.create({breed: "Samoyed.", fact: "Large herding dog, from the spitz group, with a thick, white, double-layer coat. It takes its name from the Samoyedic peoples of Siberia. Samoyed fur when shed is sometimes used as an alternative to wool in knitting and artificial flies for fly fishing."})
+
+Dog.create({breed: "Schipperke.", fact: "Small Belgian breed believed to have originated in the early 16th century. English speaking countries mistakenly thought that their name translated to Little Boatman and although sometimes seen on barges, Schipper actually means shepherd."})
+
+Dog.create({breed: "Scottish Deerhound.", fact: "Large breed of hound that was originally used to hunt Red Deer. In the 16th century a nobleman who was condemned to death could buy back his life by gifting a Deerhound."})
+
+Dog.create({breed: "Scottish Terrier.", fact: "Also known as the Aberdeen Terrier but commonly just refered to as a Scottie. Originally bred to hunt and kill vermin on farms and to hunt badgers and foxes in the Highlands of Scotland."})
+
+Dog.create({breed: "Sealyham Terrier.", fact: "Rare breed of terrier originating from Wales. Currently listed by the UK kennel club as a Vulnerable Native Breed with 116 new puppies registered in 2016."})
+
+Dog.create({breed: "Shetland Sheepdog.", fact: "Also known as a Sheltie. From the Shetland Islands, which lie between Scotland and Norway. It looks like a miniature Rough Collie."})
+
+Dog.create({breed: "Shiba Inu.", fact: "One of the six native breeds of Japan. Inu is the Japanese for Dog but there is some disagreement on what Shiba means, some say small and others say brushwood, thus Shiba Inu is sometimes translated as Little Brushwood Dog."})
+
+Dog.create({breed: "Shih Tzu.", fact: "Also known as the Crysanthemum Dog and Chinese Lion Dog. It is thought that this breed was bred to look like the lions depicted in traditional oriental art."})
+
+Dog.create({breed: "Siberian Husky.", fact: "Originating from Siberia, Russia. They were first used by the the Chukchi, a tribe of Siberian nomads and then brought to Alaska in 1908 to be used in sled-dog racing."})
+
+Dog.create({breed: "Skye Terrier.", fact: "From the Isle of Skye. The most famous Skye Terrier is Greyfriars Bobby, who after his master died guarded his grave for 14 years until he died himself."})
+
+Dog.create({breed: "Sloughi.", fact: "A North African breed, believed to be found mainly in Morocco. It was and still is used for hunting and as a guard dog."})
+
+Dog.create({breed: "Small Münsterländer.", fact: "From Münster, Germany, it is a hunting-pointing-retrieving dog breed. Originally only bred for noble families to work with their falconers before guns were used."})
+
+Dog.create({breed: "Soft-coated Wheaten Terrier.", fact: "A pure breed of terrier originating from Ireland. Their tails used to be docked to avoid taxes. They have one of two coat types: Irish or American. The Irish coat is silky and wavy, the American coat is thicker and more wooly."})
+
+Dog.create({breed: "Stabyhoun.", fact: "One of the top 5 rarest dog breeds in the world. Also known as Stabij which roughly translates to Stand By Me. From Friesland in the Netherlands, the breed is considered a national treasure."})
+
+Dog.create({breed: "Staffordshire Bull Terrier.", fact: "Also known as Staffy. Created in the early nineteenth century to be smaller and faster in the fighting ring, yet gentle and friendly toward people."})
+
+Dog.create({breed: "Sussex Spaniel.", fact: "A breed of spaniel that originated in Sussex, England. It is long and low to the ground. Despite its English origins the breed is now more popular in the United States than in any other country."})
+
+Dog.create({breed: "Swedish Vallhund.", fact: "Also known as Swedish Cow Dog. Vallhund translated means herding dog. The breed dates to the Viking settlement of England."})
 
 
 
@@ -300,6 +387,8 @@ Dog.create({breed: "Nova Scotia Duck Tolling Retriever.", fact: "Also known simp
 #########
 ##Dog.create({breed: ""})
 
+# - Hokaido
+# - Petit Basset Griffon Vendéen
 # - Schnauzer : all types.
 # - Lurcher
 # - Rough Collie
