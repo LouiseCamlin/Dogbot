@@ -14,7 +14,14 @@ gem 'randumb'
 gem 'rails', '~> 5.1.4'
 # Use sqlite3 as the database for Active Record
 #replace sqlite3 with PostgreSQL to work with heroku scheduler
-gem 'pg'
+group :production do
+  gem 'pg'
+end
+
+group :development, :test do
+  gem 'sqlite3'
+end
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
