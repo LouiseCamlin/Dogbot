@@ -413,9 +413,9 @@ Dog.create({breed: "Welsh Terrier.", fact: "Not to be confused with the Airedale
 
 Dog.create({breed: "West Highland White Terrier.", fact: "Commonly just refered to as a Westie. The breed is originally from Scotland and has longer legs than other Scottish breeds of terrier."})
 
-Dog.create({breed: "Whippet.", breed: "English sighthound descended from Greyhounds, they look like miniature Greyhounds. The name Whippet is derived from an early 17th-century word, which is now obsolete but meant to move briskly. They are the fastest accelerating dog in the world."})
+Dog.create({breed: "Whippet.", fact: "English sighthound descended from Greyhounds, they look like miniature Greyhounds. The name Whippet is derived from an early 17th-century word, which is now obsolete but meant to move briskly. They are the fastest accelerating dog in the world."})
 
-Dog.create({breed: "Wirehaired Pointing Griffon.", breed: "Also known as Korthals Griffon, after the breeds founder Eduard Karel Korthals. Korthals wanted to create the ideal gun dog who had extreme resilience, devotion to its master and that it be trainable."})
+Dog.create({breed: "Wirehaired Pointing Griffon.", fact: "Also known as Korthals Griffon, after the breeds founder Eduard Karel Korthals. Korthals wanted to create the ideal gun dog who had extreme resilience, devotion to its master and that it be trainable."})
 
 ## X ##
 
