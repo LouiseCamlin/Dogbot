@@ -160,6 +160,8 @@ Dog.create({breed: "English Foxhound.", fact: "Created in the 16th century as a 
 
 Dog.create({breed: "English Setter.", fact: "This breed was named for the way they practiced setting to let hunters know where prey was."})
 
+Dog.create({breed: "English Springer Spaniel.", fact: "Similar to the Welsh Springer Spaniel but considered a separate breed. Springers are highly trainable and are often used as drug detectors, bomb detectors, search and rescue dogs and even to sniff out bumblebee nests."})
+
 Dog.create({breed: "Entlebucher Sennenhund.", fact: "Also known as the Entlebucher mountain dog. One of the four breeds of Sennenhund and of the four is the smallest."})
 
 ## F ##
@@ -238,15 +240,18 @@ Dog.create({breed: "Japanese Spitz.", fact: "Cousin of the Pomeranian breed. Des
 
 ## K ##
 
-Dog.create({breed: "Korean Jindo Dog.", fact: "This breed originated on the Jindo Island in South Korea. It is very difficult to export purebred Jindo Dogs out of Korea due to their designation by the Government as the 53rd National Treasure in 1962."})
 
 Dog.create({breed: "Keeshond.", fact: "Originally called the German Spitz or Wolfspitz and in England was once called the Dutch Barge Dog. The proper pronunciation of Keeshond is: case-hawnd. The plural of Keeshond is Keeshonden."})
 
 Dog.create({breed: "Kerry Blue Terrier.", fact: "Also known as Irish Blue Terrier. As their name suggests, they come from County Kerry in Ireland. Their coat is unique in that it is blue with a grey tint, although puppies start out black and their coat transitions as they grow."})
 
+Dog.create({breed: "King Charles Spaniel.", fact: "Also known as the English Toy Spaniel. Has a domed head and a flat face. Not to be confused with Cavalier King Charles Spaniel which is larger with a flat head and longer nose."})
+
 Dog.create({breed: "Komondor.", fact: "Also known as the Hungarian Sheepdog. Their coat is long and thick and uniquely corded. Their coat has been compared to dreadlocks and mops. Unfortunately their coat takes up to two and a half days to dry after having a bath."})
 
 Dog.create({breed: "Kooikerhondje.", fact: "Dutch in origin, their name translated means little cager dog as they were used to lure and drive ducks into special cages so hunters could easily catch them."})
+
+Dog.create({breed: "Korean Jindo Dog.", fact: "This breed originated on the Jindo Island in South Korea. It is very difficult to export purebred Jindo Dogs out of Korea due to their designation by the Government as the 53rd National Treasure in 1962."})
 
 Dog.create({breed: "Kuvasz.", fact: "Originally from Hungary it is thought to have be an ancient breed and was once used as guard dogs for royals and livestock. At the end of World War II less than 30 Kuvasz were left in Hungary."})
 
@@ -340,6 +345,8 @@ Dog.create({breed: "Rhodesian Ridgeback.", fact: "Developed in South Africa. Als
 
 Dog.create({breed: "Rottweiler.", fact: "Once known in Germany as Rottweiler Metzgerhund (Rottweil butchers' dogs) as they were once used to pull carts full of meat to market for butchers."})
 
+Dog.create({breed: "Rough Collie.", fact: "Also known as Long-Haired Collie. Commonly known as Lassie Dog due to the Lassie films and television series. It looks like a bigger version of a Shetland Sheepdog."})
+
 ## S ##
 
 Dog.create({breed: "Saint Bernard.", fact: "Originates from the Great St Bernard Pass in the Western Alps between Switzerland and Italy. These dogs were originally bred as alpine rescue dogs. Has been the Swiss national dog since 1888."})
@@ -349,6 +356,8 @@ Dog.create({breed: "Saluki.", fact: "Also known as the Persian Greyhound or Tazi
 Dog.create({breed: "Samoyed.", fact: "Large herding dog, from the spitz group, with a thick, white, double-layer coat. It takes its name from the Samoyedic peoples of Siberia. Samoyed fur when shed is sometimes used as an alternative to wool in knitting and artificial flies for fly fishing."})
 
 Dog.create({breed: "Schipperke.", fact: "Small Belgian breed believed to have originated in the early 16th century. English speaking countries mistakenly thought that their name translated to Little Boatman and although sometimes seen on barges, Schipper actually means shepherd."})
+
+Dog.create({breed: "Schnauzer.", fact: "German dog breed whose named when translated means Snouter refering to their famous beard/moustache. Comes in three different sizes; Giant, Standard and Miniature."})
 
 Dog.create({breed: "Scottish Deerhound.", fact: "Large breed of hound that was originally used to hunt Red Deer. In the 16th century a nobleman who was condemned to death could buy back his life by gifting a Deerhound."})
 
@@ -380,18 +389,40 @@ Dog.create({breed: "Sussex Spaniel.", fact: "A breed of spaniel that originated 
 
 Dog.create({breed: "Swedish Vallhund.", fact: "Also known as Swedish Cow Dog. Vallhund translated means herding dog. The breed dates to the Viking settlement of England."})
 
+## T ##
 
+Dog.create({breed: "Tibetan Mastiff.", fact: "A large Tibetan breed of dog used to protect sheep from predators. There are two types the Do-khyi and the Tsang-khyi. Tsang-khyi (monastary type) taller, heavier, and more heavily boned, than Do-khyi (nomad type)."})
 
+Dog.create({breed: "Tibetan Spaniel.", fact: "Originally from Tibet. Not a true spaniel as most spaniels were bred to be gun dogs, whereas the Tibetan Spaniel was bred to be pets/companions and monastary dogs."})
 
+Dog.create({breed: "Tibetan Terrier.", fact: "Medium size breed originally from Tibet. Not a true terrier, it was given its English name by European travelers due to its resemblance to known terrier breeds."})
 
-#########
-##Dog.create({breed: ""})
+## U ##
 
-# - Hokaido
-# - Petit Basset Griffon Vendéen
-# - Schnauzer : all types.
-# - Lurcher
-# - Rough Collie
-# - springer spaniel : welsh and english as one
-# - king charles spaniel aka english toy spaniel
-# - labrador : This breed is a popular choice for disability assistance dogs as they have a gentle, friendly temperament
+## V ##
+
+Dog.create({breed: "Vizsla.", fact: "Created in Hungary to be a pointer and retriever. The first written reference to Vizsla dog breed has been recorded in the Illustrated Vienna Chronicle in 1357."})
+
+## W ##
+
+Dog.create({breed: "Weimaraner.", fact: "An all purpose gun dog from the city of Weimar in Germany. Has been used in the past to hunt both large game like bears and deer as well as smaller game like rabbits and foxes."})
+
+Dog.create({breed: "Welsh Springer Spaniel.", fact: "At one time called the Welsh Starter, it was used to spring game for hunters using falcons. It is included on the UK Kennel Club Vulnerable Native Breeds list."})
+
+Dog.create({breed: "Welsh Terrier.", fact: "Not to be confused with the Airedale Terrier, they are similar in looks but the Welsh Terrier is on the smaller side. The breed is on the UK Kennel Club Vulnerable Native Breed list."})
+
+Dog.create({breed: "West Highland White Terrier.", fact: "Commonly just refered to as a Westie. The breed is originally from Scotland and has longer legs than other Scottish breeds of terrier."})
+
+Dog.create({breed: "Whippet.", breed: "English sighthound descended from Greyhounds, they look like miniature Greyhounds. The name Whippet is derived from an early 17th-century word, which is now obsolete but meant to move briskly. They are the fastest accelerating dog in the world."})
+
+Dog.create({breed: "Wirehaired Pointing Griffon.", breed: "Also known as Korthals Griffon, after the breeds founder Eduard Karel Korthals. Korthals wanted to create the ideal gun dog who had extreme resilience, devotion to its master and that it be trainable."})
+
+## X ##
+
+Dog.create({breed: "Xoloitzcuintli.", fact: "Commonly known as Xolo. A breed of hairless dog from Mexico thus it is also known as the Mexican hairless dog in English-speaking countries. Due to them not being well known in the US they have often been mistaken for the mythical Chupacabra."})
+
+## Y ##
+
+Dog.create({breed: "Yorkshire Terrier.", fact: "Commonly known as Yorkie, it is a small terrier type from Yorkshire, England. Originally developed from terriers from Scotland, to be used as rat catchers in clothing mills."})
+
+## Z ##
