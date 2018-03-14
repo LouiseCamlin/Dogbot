@@ -7,7 +7,7 @@ class Bot < ApplicationRecord
 
   end
 
-  def self.tweet
+  def tweet
 
     dog = Bot.new_dog
     status = dog.breed + " " + dog.fact
@@ -15,5 +15,7 @@ class Bot < ApplicationRecord
 
   end
 
-
 end
+
+bot = Bot.new
+bot.tweet
